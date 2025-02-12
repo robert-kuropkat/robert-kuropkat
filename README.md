@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[My Gist Repository](https://gist.github.com/robert-kuropkat)
+
 <!--
 **robert-kuropkat/robert-kuropkat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
